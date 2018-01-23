@@ -5,9 +5,9 @@
 
 A demo of a FPS created with Unreal Engine 4.
 
-A ~12 minute video of gameplay can be seen here (link)
+~12 minute video of gameplay can be watched here (link)
 
-The game can be downloaded for Windows here (link)
+Download the game for Windows here (link) (2GB)
 
 What to expect from this game:
 - 4 months worth of a game from working with Unreal Engine 4
