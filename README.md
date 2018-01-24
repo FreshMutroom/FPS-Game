@@ -19,4 +19,4 @@ What to expect from this game:
 What to expect when looking at the source code:
 - Code written with only myself in mind
 - Plenty of white space
-- Lack of nullptr check macro; instead just if statements that fail silently and still run after packaging
+- Lots of ```if``` statements for ```nullptr``` checks which should use a macro instead
