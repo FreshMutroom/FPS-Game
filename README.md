@@ -20,5 +20,5 @@ What to expect from this game:
 What to expect when looking at the source code:
 - Code written with only myself in mind
 - Plenty of white space
-- Lots of ```if``` statements for ```nullptr``` checks which should use a macro instead
+- Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
 - Very little use of the ```const``` keyword
