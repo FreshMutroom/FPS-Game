@@ -15,7 +15,7 @@ What to expect from this game:
 - All art assets not created by me (excluding a few basic things like crosshairs and decals)
 - Everything implemented by me from reading/watching tutorials - nothing is just copied and pasted (There is one exception here and that is the material used for creating a yellow highlight around meshes; I have borrowed this without bothering to figure out how it works)
 - Saving and loading to not work
-- Focus more on the implementation of core aspects than a pretty looking environment
+- Focus more on implementation than a pretty looking environment
 
 What to expect when looking at the source code:
 - Code written with only myself in mind
