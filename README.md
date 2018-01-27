@@ -5,7 +5,7 @@
 
 A demo of a FPS created with Unreal Engine 4.
 
-~12 minute video of gameplay can be watched here (link)
+A 12 minute video of gameplay can be watched here (link)
 
 WARNING: Before downloading the game you must note that I can't guarantee all sounds will be at correct levels. Because of this you should either
 - play with your OS sound muted
