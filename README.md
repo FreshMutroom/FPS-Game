@@ -26,4 +26,3 @@ What to expect when looking at the source code:
 - Plenty of white space
 - Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
 - Very little use of the keyword ```const```
-- Plenty of files that aren't used
