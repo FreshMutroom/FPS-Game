@@ -11,9 +11,9 @@ WARNING: Before downloading the game you must note that I can't guarantee all so
 - play with your OS sound muted
 - play with your OS sound low (say at 10%) and adjust the in-game volume until it is comfortable
 
-After reading the warning above you can download the game for Windows here (link) (2GB)
+After reading the warning above you can download the game for Windows here: https://goo.gl/2w85Sh (2GB)
 
-What to expect from this game:
+**What to expect from this game:**
 - 4 months worth of a game from working with Unreal Engine 4
 - 100% free assets
 - All art assets not created by me (excluding some basic things like crosshairs and decals)
@@ -21,7 +21,7 @@ What to expect from this game:
 - Saving and loading to not work
 - Focus more on implementation than a pretty looking environment
 
-What to expect when looking at the source code:
+**What to expect when looking at the source code:**
 - Code written with only myself in mind
 - Plenty of white space
 - Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
