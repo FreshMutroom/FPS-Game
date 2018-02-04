@@ -12,6 +12,8 @@ A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe)
 
 After reading the warning above you can download the game for Windows [**here**](https://goo.gl/2w85Sh) (2GB)
 
+---
+
 **What to expect from this game:**
 - 4 months worth of a game from working with Unreal Engine 4
 - 100% free assets
