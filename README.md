@@ -2,8 +2,8 @@
 
 ![](https://i.imgur.com/pJ6K1iL.jpg)
 
-
-A demo of a FPS created with Unreal Engine 4.
+**What this repository is for:**
+A FPS created with Unreal Engine 4.
 
 A 12 minute video of gameplay can be watched <a href="https://goo.gl/z7kRWe" target="_blank">here</a>
 
