@@ -46,5 +46,5 @@ After reading the warning above you can download the game for Windows [**here**]
 ---
 
 **People whose tutorials helped:**
-- Reuben Ward; Youtube channel [**here**](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg/featured)
-- Mathew Wadstein; Youtube channel [**here**](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
+- Reuben Ward; Youtube channel [**here**](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg/featured).
+- Mathew Wadstein; Youtube channel [**here**](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ).
