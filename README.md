@@ -4,7 +4,7 @@
 
 A FPS created with Unreal Engine 4.
 
-### A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe)
+A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe)
 
 **WARNING:** Before downloading the game you must note that I can't guarantee all sounds will be at correct levels. Because of this you should either
 - play with your OS sound muted
@@ -23,11 +23,15 @@ After reading the warning above you can download the game for Windows [**here**]
 - Focus more on implementation than a pretty looking environment
 - A game nowhere near 100% complete
 
+---
+
 **What to expect when looking at the source code:**
 - Code written with only myself in mind
 - Plenty of white space
 - Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
 - Very little use of the keyword ```const```
+
+---
 
 **Additional info:**
 - Made mostly with UE4.15 but I switched to 4.17 right before packaging since there was something in 4.15 preventing it from working.
