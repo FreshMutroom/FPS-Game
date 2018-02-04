@@ -4,13 +4,13 @@
 
 A FPS created with Unreal Engine 4.
 
-A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe)
+A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe).
 
 **WARNING:** Before downloading the game you must note that I can't guarantee all sounds will be at correct levels. Because of this you should either
 - play with your OS sound muted
 - play with your OS sound low (say at 10%) and adjust the in-game volume until it is comfortable
 
-After reading the warning above you can download the game for Windows [**here**](https://goo.gl/2w85Sh) (2GB)
+After reading the warning above you can download the game for Windows [**here**](https://goo.gl/2w85Sh) (2GB).
 
 ---
 
@@ -40,5 +40,5 @@ After reading the warning above you can download the game for Windows [**here**]
 ---
 
 **Asset Credits and Links:**
-- Sniper rifle mesh: Created by Andrej456, download [**here**](https://forums.unrealengine.com/community/released-projects/104751-wm70-hunting-sniper-rifle-free-download)
-- Low poly trees and bushes: Created by fighter5347, download [**here**](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/30694-free-foliage-starter-kit)
+- Sniper rifle mesh: Created by Andrej456, download [**here**](https://forums.unrealengine.com/community/released-projects/104751-wm70-hunting-sniper-rifle-free-download).
+- Low poly trees and bushes: Created by fighter5347, download [**here**](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/30694-free-foliage-starter-kit).
