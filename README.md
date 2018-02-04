@@ -26,3 +26,7 @@ After reading the warning above you can download the game for Windows [**here**]
 - Plenty of white space
 - Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
 - Very little use of the keyword ```const```
+
+**Additional info:**
+- Made mostly with UE4.15 but I switched to 4.17 right before packaging since there was something in 4.15 preventing it from working.
+- I used blueprints early on. Those things I did implement in blueprints I did not convert to C++, but near the end I tried to use C++ as much as possible.
