@@ -1,4 +1,4 @@
-# FPS-Demo
+# FPS-Game
 
 ![](https://i.imgur.com/pJ6K1iL.jpg)
 
