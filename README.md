@@ -10,7 +10,7 @@ A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe).
 - play with your OS sound muted
 - play with your OS sound low (say at 10%) and adjust the in-game volume until it is comfortable
 
-After reading the warning above you can download the game for Windows [**here**](https://goo.gl/2w85Sh) (2GB).
+After reading the warning above you can download the game for Windows [**here**](https://goo.gl/M7kuvP) (2GB).
 
 ---
 
