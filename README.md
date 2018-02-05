@@ -1,6 +1,6 @@
 # FPS-Game
 
-![](https://i.imgur.com/pJ6K1iL.jpg)
+<img src="https://i.imgur.com/pJ6K1iL.jpg" width="1920" height="1080" />
 
 A FPS created with Unreal Engine 4.
 
