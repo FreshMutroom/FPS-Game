@@ -33,12 +33,6 @@ After reading the warning above you can download the game for Windows [**here**]
 
 ---
 
-**Additional info:**
-- Made mostly with UE4.15 but I switched to 4.17 right before packaging since there was something in 4.15 preventing it from working.
-- I used blueprints early on. Those things I did implement in blueprints I did not convert to C++, but near the end I tried to use C++ as much as possible.
-
----
-
 **Asset credits and links:**
 - Sniper rifle mesh: created by Andrej456; download [**here**](https://forums.unrealengine.com/community/released-projects/104751-wm70-hunting-sniper-rifle-free-download).
 - Low poly trees and bushes: created by fighter5347; download [**here**](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/30694-free-foliage-starter-kit).
