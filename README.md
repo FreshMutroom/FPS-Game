@@ -33,12 +33,10 @@ After reading the warning above you can download the game for Windows [**here**]
 
 ---
 
-**Asset credits and links:**
+###**Asset credits and links:**
 - Sniper rifle mesh: created by Andrej456; download [**here**](https://forums.unrealengine.com/community/released-projects/104751-wm70-hunting-sniper-rifle-free-download).
 - Low poly trees and bushes: created by fighter5347; download [**here**](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/30694-free-foliage-starter-kit).
 
----
-
-**People whose tutorials helped:**
+###**People whose tutorials helped:**
 - Reuben Ward; Youtube channel [**here**](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg/featured).
 - Mathew Wadstein; Youtube channel [**here**](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ).
