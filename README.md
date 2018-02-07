@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/pJ6K1iL.jpg" width="640" height="360" />
 
-A FPS created with Unreal Engine 4.
+A FPS created with Unreal Engine 4.17.
 
 A 12 minute video of gameplay can be watched [**here**](https://goo.gl/z7kRWe).
 
