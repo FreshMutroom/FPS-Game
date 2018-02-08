@@ -18,7 +18,7 @@ After reading the warning above you can download the game for Windows [**here**]
 - 4 months worth of a game from working with Unreal Engine 4
 - 100% free assets
 - All art assets not created by me (excluding some basic things like crosshairs and decals)
-- Everything implemented by me from reading/watching tutorials - nothing is just copied and pasted (There is one exception here and that is the material used for creating a yellow highlight around meshes; I have borrowed this without bothering to figure out how it works)
+- Everything implemented by me from reading/watching tutorials - nothing just copied and pasted (There is one exception here and that is the material used for creating a yellow highlight around meshes; I have borrowed this without bothering to figure out how it works)
 - Saving and loading to not work
 - Focus more on implementation than a pretty looking environment
 - A game nowhere near 100% complete
