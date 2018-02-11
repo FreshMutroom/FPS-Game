@@ -6,29 +6,8 @@ A FPS created with Unreal Engine 4.17.
 
 ---
 
-### **What to expect from this game:**
-- 4 months worth of a game from working with Unreal Engine 4
-- 100% free assets
-- All art assets not created by me (excluding some basic things like crosshairs and decals)
-- Everything implemented by me from reading/watching tutorials - nothing just copied and pasted (There is one exception here and that is the material used for creating a yellow highlight around meshes; I have borrowed this without bothering to figure out how it works)
-- Saving and loading to not work
-- Focus more on implementation than a pretty looking environment
-- A game nowhere near 100% complete
-
----
-
 ### **What to expect when looking at the source code:**
 - Code written with only myself in mind
 - Plenty of white space
-- Lots of ```if``` statements for ```nullptr``` checks which should use a helper function instead
+- Lots of ```if``` statements for ```nullptr``` checks which should use check instead
 - Very little use of the keyword ```const```
-
----
-
-### **Asset credits and links:**
-- Sniper rifle mesh: created by Andrej456; download [**here**](https://forums.unrealengine.com/community/released-projects/104751-wm70-hunting-sniper-rifle-free-download).
-- Low poly trees and bushes: created by fighter5347; download [**here**](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/30694-free-foliage-starter-kit).
-
-### **People whose tutorials helped:**
-- Reuben Ward; Youtube channel [**here**](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg/featured).
-- Mathew Wadstein; Youtube channel [**here**](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ).
